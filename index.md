@@ -36,4 +36,4 @@
 
 
 
-[下一页](http://markdown.xiaoshujiang.com/)
+[下一页](https://neonmike.github.io/EasyBLog/index2.html)
